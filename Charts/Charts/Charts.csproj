@@ -79,7 +79,7 @@
     <Content Include="css\elen7046Heatmap.css" />
     <Content Include="css\tipsy.css" />
     <Content Include="index.htm" />
-    <Content Include="scripts\chart.js" />
+    <Content Include="scripts\chart-customerPerProvince.js" />
     <Content Include="scripts\d3.js" />
     <Content Include="scripts\d3.min.js" />
     <None Include="scripts\jquery-2.2.3.intellisense.js" />
